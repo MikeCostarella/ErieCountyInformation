@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "ISSG";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Erie County (Official Site)", category: "Government", subcategory: "County", url: "https://www.eriecounty.oh.gov/", description: "Official Erie County government website — offices, departments, and services." },
